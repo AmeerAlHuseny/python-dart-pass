@@ -1,0 +1,8 @@
+Q1\
+
+ what is wrong with the following code
+main () {
+\\no enter time 
+const hour = DataTime,now().hour; \\This method returns the current minute value of the datetime object
+print(hour); \\ it can't print any think 
+}
